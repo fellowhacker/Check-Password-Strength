@@ -17,13 +17,13 @@
 			</div>
 			
 			<div id="content">	
-				<!-- form start-->
+	 
 				<form id="register">
-					<label for="password">Password : </label>
+					<label for="password">Enter your Password : </label>
 					<input name="password" id="password" type="password"/>
 					<span id="result"></span>
 				</form>		
-				<!-- form end-->
+	 
 			</div>
 		</div>
 	</body>
